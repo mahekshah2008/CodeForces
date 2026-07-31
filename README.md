@@ -1,14 +1,19 @@
-# Codeforces Solutions
+# 💻 Codeforces Solutions
 
-This repository contains my accepted Codeforces solutions written in C++.
+Welcome to my Codeforces repository!
 
 ## 👩‍💻 Language
 - C++
 
-## 📈 Progress
-Solved Problems: 7
+## 🏆 Progress
+- Solved Problems: *7*
 
-More solutions will be added as I continue solving problems.
+## 📂 Ratings
+- 800
 
-Codeforces Profile:-
+## 🔗 Codeforces Profile
 https://codeforces.com/profile/mahek_08
+
+---
+
+I upload my accepted Codeforces solutions here as I continue my competitive programming journey.
