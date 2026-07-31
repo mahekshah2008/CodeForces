@@ -6,7 +6,7 @@ Welcome to my Codeforces repository!
 - C++
 
 ## 🏆 Progress
-- Solved Problems: *7*
+- Solved Problems: 7
 
 ## 📂 Ratings
 - 800
