@@ -3,11 +3,17 @@
 I'm *Mahek Shah*.
 
 🎓 First-year Engineering Student
+
 💻 Currently learning *C++* with LearnCpp
+
 🏆 Exploring Competitive Programming through Codeforces
+
 🌱 Building my coding journey one step at a time.
+
 ---
+
 ## 🚀 Current Goals
+
 - 📚 Master C++
 - 🧩 Solve 1000 Codeforces problems
 - 💻 Build exciting projects
