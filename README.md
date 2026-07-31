@@ -1,19 +1,29 @@
-# 💻 Codeforces Solutions
+# Hi there! 👋
 
-Welcome to my Codeforces repository!
+I'm *Mahek Shah*.
 
-## 👩‍💻 Language
-- C++
-
-## 🏆 Progress
-- Solved Problems: 7
-
-## 📂 Ratings
-- 800
-
-## 🔗 Codeforces Profile
-https://codeforces.com/profile/mahek_08
+🎓 First-year Engineering Student
+💻 Currently learning *C++* with LearnCpp
+🏆 Exploring Competitive Programming through Codeforces
+🌱 Building my coding journey one step at a time.
+---
+## 🚀 Current Goals
+- 📚 Master C++
+- 🧩 Solve 1000 Codeforces problems
+- 💻 Build exciting projects
+- 🌐 Learn Git & GitHub
+- 🎥 Document my journey on YouTube
 
 ---
 
-I upload my accepted Codeforces solutions here as I continue my competitive programming journey.
+## 📫 Find me here
+
+🏆 Codeforces :-  
+https://codeforces.com/profile/mahek_08
+
+📺 YouTube :-
+https://www.youtube.com/@mahekshah
+
+---
+
+> "Small steps, big journey." 🌱
