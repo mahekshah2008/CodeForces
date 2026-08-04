@@ -4,7 +4,7 @@ I'm *Mahek Shah*.
 
 🎓 First-year Engineering Student
 
-💻 Currently learning *C++* with LearnCpp
+💻 Currently learning C++
 
 🏆 Exploring Competitive Programming through Codeforces
 
