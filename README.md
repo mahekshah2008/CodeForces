@@ -14,7 +14,7 @@ I'm *Mahek Shah*.
 
 ## 🚀 Current Goals
 
-- 📚 Master C++
+- 📚 Master C++ and Python 
 - 🧩 Solve 1000 Codeforces problems
 - 💻 Build exciting projects
 - 🌐 Learn Git & GitHub
